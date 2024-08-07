@@ -13,8 +13,8 @@ body {
     /* Altura / vh - altura */
     width: 100%;
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(33,187,82,1) 24%, rgba(0,212,255,1) 57%, rgba(8,206,213,1) 87%);
-}
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 100%, rgba(0,212,255,1) 100%, rgba(9,9,121,1) 100%, rgba(1,118,158,1) 100%);}
 
 .caixa-maior {
     background-color: #000000;/*  Troca cor de fundo  */
